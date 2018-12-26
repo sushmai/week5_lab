@@ -6,4 +6,3 @@
 1. [X] PGP
 1. [ ] Insecure Cryptographic Storage Challenge 3
 1. [ ] Insecure Cryptographic Storage Challenge 4
-1. [ ] Insecure Cryptographic Storage Challenge 5
